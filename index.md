@@ -6,6 +6,9 @@
 <h2> Perché creare questa pagina? </h2>
 
 <p> Sono convinto del fatto che ogni persona porti nascosto dentro se stessa il potenziale sufficiente a trovare un equilibrio con tutti i 
-  frammenti della sua essenza. L'equilibrio è,quindi, l'obbiettivo da raggiungere, meditazione e sbagli sono la via per raggiungerlo.
-  In ogni momento della nostra vita, le decisioni, le reazioni, le emozioni, sono tutte scatenate da un agente, che sia esterno o 
-  interno; sta a noi effettuare una profonda introspezione per ricercarne le cause. </p>
+  frammenti della sua essenza. In ogni momento della nostra vita, le decisioni, le reazioni, le emozioni, sono tutte scatenate da un       
+  agente, che sia esterno o interno, e sta a noi effettuare una profonda introspezione per ricercarne le cause. </p>
+  
+  <h3>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/London_Underground_Tube_Train_approaching.gif" alt="https://upload.wikimedia.org/wikipedia/commons/d/dc/London_Underground_Tube_Train_approaching.gif" height="180" width="150">
