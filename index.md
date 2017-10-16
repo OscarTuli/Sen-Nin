@@ -1,7 +1,7 @@
 <h1> Qui è dove imparerai a conoscere te stesso </h1>
 
 <img src="https://cdn.pixabay.com/photo/2015/06/29/10/18/eye-825401_960_720.jpg" alt="https://cdn.pixabay.com/photo/2015/06/29/10/18/eye-825401_960_720.jpg" height="250" width="400"> 
-<p> <strong> Ti chiedi perché, nonostante i tuoi occhi siano aperti, non riesci a <em> vedere </em>. Sono gli occhi della tua anima quelli che devi aprire.  </strong> </p>
+<p><strong>Ti chiedi perché, nonostante i tuoi occhi siano aperti, non riesci a <em>vedere</em>. Sono gli occhi della tua anima quelli che devi aprire.</strong></p>
 
 <h2> Perché creare questa pagina? </h2>
 
