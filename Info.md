@@ -1,4 +1,4 @@
-<h1> Qui è dove imparerai come conoscere te stesso </h1>
+<h1> γνῶθι σαυτόν - Nosce te ipsum </h1>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Couch-sol-anim.gif" 
 alt="https://upload.wikimedia.org/wikipedia/commons/3/3f/Couch-                                                                         
