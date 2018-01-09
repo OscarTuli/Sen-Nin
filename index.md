@@ -1,4 +1,4 @@
-<p><i>A Gerhman, fedele cacciatore del sogno. Sono libero dalla notte. Ho deciso di intraprendere la via dell'eremita, sperando mi porterà ancora più lontano di quanto mi abbia portato tu. Custodirò gelosamente i tuoi insegnamenti. 
+<p><i>A Gerhman, fedele cacciatore del sogno. Sono finalmente libero dalla notte. Ho deciso di intraprendere la Via dell'Eremita, sperando elevi il mio spirito, portandomi ancora più lontano dal sogno. Custodirò gelosamente i tuoi insegnamenti. 
   
 Addio, caro amico.</i></p>
 
