@@ -1,4 +1,4 @@
-<h1>Ti chiedi perché, nonostante i tuoi occhi siano aperti, non riesci a <em><strong>vedere</strong></em>. Sono gli occhi della tua anima quelli che devi aprire.</h1>
+<h1>Ti chiedi perché, nonostante i tuoi occhi siano aperti, tu non riesca a <em><strong>vedere</strong></em>. Sono gli occhi della tua anima quelli che devi aprire.</h1>
 
 <h2>Perché creare questa pagina</h2>
 
