@@ -1,10 +1,4 @@
-<h1> γνῶθι σαυτόν - Nosce te ipsum </h1>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Couch-sol-anim.gif" 
-alt="https://upload.wikimedia.org/wikipedia/commons/3/3f/Couch-                                                                         
-sol-anim.gif" height="400" width="300"> 
-                                                                 
-<p>Ti chiedi perché, nonostante i tuoi occhi siano aperti, non riesci a <em><strong>vedere</strong></em>. Sono gli occhi della tua anima quelli che devi aprire.</p>
+<h1>Ti chiedi perché, nonostante i tuoi occhi siano aperti, non riesci a <em><strong>vedere</strong></em>. Sono gli occhi della tua anima quelli che devi aprire.</h1>
 
 <h2>Perché creare questa pagina</h2>
 
@@ -14,4 +8,4 @@ sol-anim.gif" height="400" width="300">
   
   
  <h3>Dove ha avuto inizio tutto ciò</h3>
- <p>Tempo fa, una perdita ha danneggiato non poco la mia anima, lasciando una <strong>cicatrice</strong> indelebile. Una persona è venuta in mio soccorso allora, offrendomi la possibilità di elevarmi al di sopra del mare di dolore in cui annegavo. Ho deciso di intraprendere questo cammino, sono stato guidato passo dopo passo alla scoperta di chi io sia davvero. Fino ad allora, non avevo fatto altro che mentire a me stesso, reinventarmi in base alle persone intorno a me. Iniziò tutto con un test sulla personalità, in lingua inglese (consiglio solo alle persone con un buon livello di cimentarvisi). Rimarrete sorpresi da quanto può aprirvi gli occhi. Per eseguire il test, cliccate <a href="http://www.humanmetrics.com/cgi-win/jtypes2.asp">qui</a>.</p>
+ <p>Tempo fa, una perdita ha danneggiato non poco la mia anima, lasciando una <strong>cicatrice</strong> indelebile. Una persona è venuta in mio soccorso allora, offrendomi la possibilità di elevarmi al di sopra del mare di dolore in cui annegavo. Ho deciso di intraprendere questo cammino, sono stato guidato passo dopo passo alla scoperta di chi sono. Fino ad allora, non avevo fatto altro che mentire a me stesso, reinventarmi in base alle persone intorno a me. Iniziò tutto con un test sulla personalità, in inglese (consiglio solo alle persone con un buon livello di cimentarvisi). Rimarrete sorpresi da quanto può aprirvi gli occhi. Per eseguire il test, cliccate <a href="http://www.humanmetrics.com/cgi-win/jtypes2.asp">qui</a>.</p>
