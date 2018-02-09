@@ -6,4 +6,4 @@ Addio, caro amico.</i></p>
 
 
 
-<a style="float:left;" href="https://oscartuli.github.io/Distruzione.html">Inizia a leggere</a> 
+<a style="float:left;" href="https://oscartuli.github.io/distruzione,l'inizio.html">Inizia a leggere</a> 
