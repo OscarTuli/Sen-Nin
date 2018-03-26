@@ -6,4 +6,4 @@ Addio, caro amico.</i></p>
 
 
 
-<a style="float:left;" href="https://oscartuli.github.io/Distruzione.html">Inizia a leggere</a> 
+<div data-type="countdown" data-id="525840" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%"><a href="//www.tickcounter.com/countdown/525840/my-countdown" title="My countdown">My countdown</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
